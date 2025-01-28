@@ -14,4 +14,5 @@ background (200, 100, 500);
 
 // Dibujar una linea
 //   x1, y1,x2, y2
+stroke(200);
 line(300,0,300,400);
